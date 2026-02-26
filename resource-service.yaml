@@ -1,0 +1,7 @@
+dummy:
+  message: "Dummy15"
+s3:
+  song:
+    data:
+      bucket: song-data
+
