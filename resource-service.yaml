@@ -3,5 +3,5 @@ dummy:
 s3:
   song:
     data:
-      bucket: song-data2
+      bucket: song-data3
 
